@@ -51,6 +51,8 @@
 		97DC22DF282ED46100703605 /* SwimmingCollab */ = {
 			isa = PBXGroup;
 			children = (
+				97DC22F0282ED4BC00703605 /* Collaboration2 */,
+				97DC22EE282ED4AB00703605 /* Collaboration1 */,
 				97DC22E0282ED46100703605 /* SwimmingCollabApp.swift */,
 				97DC22E2282ED46100703605 /* ContentView.swift */,
 				97DC22E4282ED46200703605 /* Assets.xcassets */,
@@ -65,6 +67,20 @@
 				97DC22E7282ED46200703605 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		97DC22EE282ED4AB00703605 /* Collaboration1 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Collaboration1;
+			sourceTree = "<group>";
+		};
+		97DC22F0282ED4BC00703605 /* Collaboration2 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Collaboration2;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
