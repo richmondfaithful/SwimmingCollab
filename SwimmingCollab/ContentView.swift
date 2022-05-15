@@ -12,6 +12,7 @@ struct ContentView: View {
         Text("Hello, Team Swimming Cantikkkk")
             .padding()
         Text("Bismillah selesai MC1").padding()
+        Text("Bismillah selesai MC1").padding()
         
     }
 }
