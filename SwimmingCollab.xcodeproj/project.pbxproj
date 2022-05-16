@@ -11,6 +11,7 @@
 		97DC22E3282ED46100703605 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97DC22E2282ED46100703605 /* ContentView.swift */; };
 		97DC22E5282ED46200703605 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97DC22E4282ED46200703605 /* Assets.xcassets */; };
 		97DC22E8282ED46200703605 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97DC22E7282ED46200703605 /* Preview Assets.xcassets */; };
+		B8D1F8C62831599100254150 /* halooww.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8D1F8C52831599100254150 /* halooww.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		97DC22E2282ED46100703605 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		97DC22E4282ED46200703605 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		97DC22E7282ED46200703605 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B8D1F8C52831599100254150 /* halooww.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = halooww.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 				97DC22F0282ED4BC00703605 /* Collaboration2 */,
 				97DC22EE282ED4AB00703605 /* Collaboration1 */,
 				97DC22E0282ED46100703605 /* SwimmingCollabApp.swift */,
+				B8D1F8C52831599100254150 /* halooww.swift */,
 				97DC22E2282ED46100703605 /* ContentView.swift */,
 				97DC22E4282ED46200703605 /* Assets.xcassets */,
 				97DC22E6282ED46200703605 /* Preview Content */,
@@ -154,6 +157,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				97DC22E3282ED46100703605 /* ContentView.swift in Sources */,
+				B8D1F8C62831599100254150 /* halooww.swift in Sources */,
 				97DC22E1282ED46100703605 /* SwimmingCollabApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
