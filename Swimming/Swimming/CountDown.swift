@@ -9,7 +9,7 @@
 import SwiftUI
 
 struct CountDown: View{
-    @State var minutes = 60
+    @State var minutes = 1800
         
         let timer = Timer.publish(every: 1, on: .main, in: .common).autoconnect()
 
