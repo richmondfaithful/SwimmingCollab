@@ -15,11 +15,12 @@ struct Landmark: Identifiable{
     var image: String
 }
 
+
 var landmarksData = [
     Landmark(title: "Sidestroke", detail: "14 minutes", detail2: "1 minute break", image: "icon"),
-    Landmark(title: "Breakstroke", detail: "14 minutes", detail2: "1 minute break", image: "icon"),
-    Landmark(title: "Katak", detail: "14 minutes", detail2: "1 minute break", image: "icon"),
-    Landmark(title: "Dada Gaya", detail: "14 minutes", detail2: "1 minute break", image: "icon")
+    Landmark(title: "Butterfly", detail: "14 minutes", detail2: "1 minute break", image: "icon"),
+    Landmark(title: "Freestyle", detail: "14 minutes", detail2: "1 minute break", image: "icon"),
+    Landmark(title: "Backstroke", detail: "14 minutes", detail2: "1 minute break", image: "icon")
 ]
 
 
